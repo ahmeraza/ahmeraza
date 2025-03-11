@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed and I'm a Data Analyst, from Boston Massachusetts. <br><br>I use data to build narratives and drive informed business decisions with Microsoft Excel, SQL, Tableau, Python, and RStudio expertise.</p>
+<p align="left"> I'm Ahmed and a Data Analyst from Boston Massachusetts. <br><br>I use data to build narratives and drive informed business decisions with Microsoft Excel, SQL, Tableau, Python, and RStudio expertise.</p>
 
 ###
 
@@ -41,3 +41,8 @@
 </div>
 
 ###
+
+🔥 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### 
