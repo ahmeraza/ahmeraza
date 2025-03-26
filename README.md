@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
@@ -22,7 +22,7 @@
       </ul>
       </div>
       <div class="section">
-      <h2 align="left">I play with</h2>
+      <h2 align="left">Technical Tools</h2>
       </ul>
 <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazon web services logo"  />
