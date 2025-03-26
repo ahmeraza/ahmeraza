@@ -18,7 +18,7 @@
             <li> Make my mother feel like a Queen </li> 
             <li> 📈 Enhance Machine Learning Skills </li> 
             <li> 🎲 Use my skills to solve challenging problems </li> 
-            <li> Fun fact: I want to retire as a Chef 🍳 </li>
+            <li> 🍳 I want to retire as a Chef </li>
       </ul>
       </div>
       <div class="section">
@@ -45,10 +45,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="Rstudio logo"  />
         <img width="12" />
-        <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-tableau-analytics-flat-flat-juicy-fish.png" height="40" alt="Tableau logo" />
-        <img width="12" />
         <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI logo" />
-        <img width="12" />
         <img width="12" /> 
 </div>
 
