@@ -15,7 +15,7 @@
       </ul>
             <li> ✨ Creating bugs as I love to experiment and explore new things </li>
             <li> 📚 I'm currently learning  </li>
-            <li> Make my mother feel like a Queen </li> 
+            <li> 👑 Make my mother feel like a Queen </li> 
             <li> 📈 Enhance Machine Learning Skills </li> 
             <li> 🎲 Use my skills to solve challenging problems </li> 
             <li> 🍳 I want to retire as a Chef </li>
